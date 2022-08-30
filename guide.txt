@@ -1,0 +1,4 @@
+npx create-react-app ./
+oaste dependancy to package.json
+
+npm install --legacy-peer-deps       #to install all modules from package.json
