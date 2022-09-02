@@ -35,7 +35,8 @@ a {
 }
 
 .react-player {
-  height: 77vh !important;
+  /* height: 77vh !important; */
+  height: 67vh !important;
   width: 100% !important;
 }
 
